@@ -1,0 +1,14 @@
+[
+	{
+		"title": "Gallery",
+		"slug": "/gallery"
+	},
+	{
+		"title": "Wallet",
+		"slug": "/wallet"
+	},
+	{
+		"title": "FAQ",
+		"slug": "/faq"
+	}
+]
